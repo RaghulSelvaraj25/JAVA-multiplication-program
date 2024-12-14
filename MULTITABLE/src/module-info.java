@@ -4,5 +4,5 @@
 /**
  * 
  */
-module JAVA_PROJECTS {
+module MULTITABLE {
 }
